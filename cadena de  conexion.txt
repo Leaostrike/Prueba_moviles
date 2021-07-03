@@ -1,8 +1,5 @@
-Data Source=LUCAS;Initial Catalog=Northwind;Persist Security Info=True;User ID=sa;Password=***********
+Prueba para version3
 
-<connectionStrings>
-    <add name="cn" connectionString="Data Source=LUCAS;Initial Catalog=Northwind;Persist Security Info=True;User ID=sa;Password=sql"/>
-  </connectionStrings>
 
 
 
