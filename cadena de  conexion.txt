@@ -1,0 +1,24 @@
+Data Source=LUCAS;Initial Catalog=Northwind;Persist Security Info=True;User ID=sa;Password=***********
+
+<connectionStrings>
+    <add name="cn" connectionString="Data Source=LUCAS;Initial Catalog=Northwind;Persist Security Info=True;User ID=sa;Password=sql"/>
+  </connectionStrings>
+
+
+
+<connectionStrings>
+	<add name="cnx" connectionString="server=.;database=Negocios2021;uid=sa;pwd=sql"/>
+</connectionStrings>
+
+<add name="cnsql" connectionString="server=.; database=proyectodsw1; uid=sa; pwd=sql"/>
+<add name="cnwin" connectionString="server=.; database=proyectodsw1; integrated security = true"/>
+ 
+
+
+using ProyectoSesion05.Models;
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
+
+
+gmail password gduwagkmdtpafvhq
